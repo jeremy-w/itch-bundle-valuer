@@ -1,0 +1,2384 @@
+{
+  "games": [
+    {
+      "short_text": "Enemy A.I. Tool for TTRPG Tactical Combat",
+      "url": "https://cursenightgames.itch.io/monsterai",
+      "classification": "physical_game",
+      "user": {
+        "id": 1604762,
+        "url": "https://cursenightgames.itch.io",
+        "name": "CurseNightGames"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwMzgxNTgyLnBuZw==/300x240%23cb/cddexf.png",
+      "title": "Monster A.I. - Goblins and Orcs",
+      "cover_color": "#282828",
+      "id": 540250,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5.99"
+    },
+    {
+      "short_text": "A high-octane, single session, 3-5 player GM-less, Forged In The Dark, goof of a game about space robbing a space train.",
+      "url": "https://sdunnewold.itch.io/space-train-space-heist",
+      "classification": "physical_game",
+      "user": {
+        "id": 1449820,
+        "url": "https://sdunnewold.itch.io",
+        "name": "sdunnewold"
+      },
+      "cover": "https://img.itch.zone/aW1nLzM2MzEyNjUuanBn/300x240%23cb/pfp6wB.jpg",
+      "title": "Space Train Space Heist",
+      "cover_color": "#0f0f1d",
+      "id": 612730,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A minimalist sword and witchcraft RPG  for campaigns and quick sessions",
+      "url": "https://lucasrolim.itch.io/pactsandblades",
+      "classification": "physical_game",
+      "user": {
+        "id": 1535531,
+        "url": "https://lucasrolim.itch.io",
+        "name": "Lucas Rolim"
+      },
+      "cover": "https://img.itch.zone/aW1nLzMzNzc1NzYuanBn/300x240%23cb/6ZiuMF.jpg",
+      "title": "Pacts & Blades",
+      "cover_color": "#eeeeee",
+      "id": 632321,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "A solo RPG about protecting, befriending and improving a community",
+      "url": "https://catscratcher.itch.io/friendly-neighborhood-superhero",
+      "classification": "physical_game",
+      "user": {
+        "id": 1740133,
+        "url": "https://catscratcher.itch.io",
+        "name": "Catscratcher Studio"
+      },
+      "cover": "https://img.itch.zone/aW1nLzM1MDExMzMucG5n/300x240%23cb/V2vtKr.png",
+      "title": "Friendly Neighborhood Superhero",
+      "cover_color": "#ffffff",
+      "id": 652349,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "A supplement for Beam Saber that changes the scope of The War",
+      "url": "https://austin-ramsay.itch.io/thegrowingconflict",
+      "classification": "physical_game",
+      "user": {
+        "id": 705849,
+        "url": "https://austin-ramsay.itch.io",
+        "name": "Austin Ramsay"
+      },
+      "cover": "https://img.itch.zone/aW1nLzM1OTQ2MjYucG5n/300x240%23cb/Z4DdTM.png",
+      "title": "Beam Saber: The Growing Conflict",
+      "cover_color": "#02191D",
+      "id": 664969,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$20"
+    },
+    {
+      "short_text": "A game about exploring dark, dangerous dreamscapes",
+      "url": "https://mrdrhobo.itch.io/deep-nightly-fathoms",
+      "classification": "physical_game",
+      "user": {
+        "id": 2772134,
+        "url": "https://mrdrhobo.itch.io",
+        "name": "MRDR HOBO"
+      },
+      "cover": "https://img.itch.zone/aW1nLzU1MTg0NTQuanBn/300x240%23cb/9kv%2BEe.jpg",
+      "title": "Deep Nightly Fathoms",
+      "cover_color": "#010413",
+      "id": 669400,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$20"
+    },
+    {
+      "short_text": "A solo journaling RPG about killing Gods",
+      "url": "https://catscratcher.itch.io/divinity-fall",
+      "classification": "physical_game",
+      "user": {
+        "id": 1740133,
+        "url": "https://catscratcher.itch.io",
+        "name": "Catscratcher Studio"
+      },
+      "cover": "https://img.itch.zone/aW1nLzM3OTkxODMucG5n/300x240%23cb/JcTkzQ.png",
+      "title": "Divinity Fall",
+      "cover_color": "#191221",
+      "id": 689524,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$8"
+    },
+    {
+      "short_text": "Weird monsters are trapped inside a magic labyrinth",
+      "url": "https://joaquin-ollo.itch.io/the-labyrinth-of-verra",
+      "classification": "physical_game",
+      "user": {
+        "id": 1738013,
+        "url": "https://joaquin-ollo.itch.io",
+        "name": "Joaquín Ollo"
+      },
+      "cover": "https://img.itch.zone/aW1nLzQwMjY0MzIucG5n/300x240%23cb/6be6%2FK.png",
+      "title": "The Labyrinth of Verra",
+      "cover_color": "#3f2832",
+      "id": 725693,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A single session gmless story telling game about creating and haunting a village",
+      "url": "https://alicesv.itch.io/untitled-ghost-game",
+      "classification": "physical_game",
+      "user": {
+        "id": 1025492,
+        "url": "https://alicesv.itch.io",
+        "name": "Alice V."
+      },
+      "cover": "https://img.itch.zone/aW1nLzQ0MzE5ODgucG5n/300x240%23cb/5URvzv.png",
+      "title": "Untitled Ghost Game",
+      "cover_color": "#fbecc6",
+      "id": 790801,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "A World of Dungeons hack inspired by CRPG like Baldur's Gate, Icewind Dale and Neverwinter Nights.",
+      "url": "https://mrdrhobo.itch.io/and-venture-forth",
+      "classification": "physical_game",
+      "user": {
+        "id": 2772134,
+        "url": "https://mrdrhobo.itch.io",
+        "name": "MRDR HOBO"
+      },
+      "cover": "https://img.itch.zone/aW1nLzQ1ODc3NDEuanBn/300x240%23cb/HqWqgg.jpg",
+      "title": "And Venture Forth",
+      "cover_color": "#eeeeee",
+      "id": 818322,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "Boost as in “to improve or augment,” but also Boost as in “to steal” like boosting cars.",
+      "url": "https://v-for-valensa.itch.io/the-mech-booster",
+      "classification": "physical_game",
+      "user": {
+        "id": 198989,
+        "url": "https://v-for-valensa.itch.io",
+        "name": "V For Valensa"
+      },
+      "cover": "https://img.itch.zone/aW1nLzQ2ODE4MzUucG5n/300x240%23cb/UNcWJc.png",
+      "title": "The Mech Booster: A Beam Saber Playbook",
+      "cover_color": "#087075",
+      "id": 835431,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "MΣTΔ​ is an old school inspired role-playing game of metalanguage, metagaming, and metaphysics",
+      "url": "https://tragos-games.itch.io/meta",
+      "classification": "physical_game",
+      "user": {
+        "id": 1011981,
+        "url": "https://tragos-games.itch.io",
+        "name": "Tragos Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzUyNjk2NzAucG5n/300x240%23cb/GtqOyP.png",
+      "title": "MΣTΔ​",
+      "cover_color": "#eeeeee",
+      "id": 862069,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "A journaling game of language and reality",
+      "url": "https://davidblandy.itch.io/babel",
+      "classification": "physical_game",
+      "user": {
+        "id": 3616661,
+        "url": "https://davidblandy.itch.io",
+        "name": "David Blandy"
+      },
+      "cover": "https://img.itch.zone/aW1nLzUwMTM3NjAuanBn/300x240%23cb/hFNIv3.jpg",
+      "title": "Babel",
+      "cover_color": "#eeeeee",
+      "id": 876935,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "Slice of life drama in the streets, dungeon crawler in the sheets.",
+      "url": "https://snowttrpg.itch.io/my-body-is-a-cage",
+      "classification": "physical_game",
+      "user": {
+        "id": 1471196,
+        "url": "https://snowttrpg.itch.io",
+        "name": "snow"
+      },
+      "cover": "https://img.itch.zone/aW1nLzcyNzcxMDEucG5n/300x240%23cb/KZEqZQ.png",
+      "title": "My Body is a Cage",
+      "cover_color": "#eeeeee",
+      "id": 883854,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "High speed, high octane action with giant robots",
+      "url": "https://v-for-valensa.itch.io/battle-for-the-speed-planet",
+      "classification": "physical_game",
+      "user": {
+        "id": 198989,
+        "url": "https://v-for-valensa.itch.io",
+        "name": "V For Valensa"
+      },
+      "cover": "https://img.itch.zone/aW1nLzUzNTczOTEucG5n/300x240%23cb/v%2BhBcK.png",
+      "title": "Battle For The Speed Planet: A Beam Saber Expansion",
+      "cover_color": "#01191d",
+      "id": 945193,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "An Ethical Approach to LeGuinian Magic for Games and Stories",
+      "url": "https://cursenightgames.itch.io/trusted-with-its-true-name",
+      "classification": "other",
+      "cover": "https://img.itch.zone/aW1nLzUzNjQ1NTgucG5n/300x240%23c/L8oavU.png",
+      "user": {
+        "id": 1604762,
+        "url": "https://cursenightgames.itch.io",
+        "name": "CurseNightGames"
+      },
+      "cover_color": "#2ccb7a",
+      "id": 946366,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "title": "Trusted with Its True Name",
+      "price": "$1"
+    },
+    {
+      "short_text": "POST FANTASY  TRPG ACTION",
+      "url": "https://roll4tarrasque.itch.io/brave-zenith-playtest",
+      "classification": "physical_game",
+      "user": {
+        "id": 1555717,
+        "url": "https://roll4tarrasque.itch.io",
+        "name": "Roll 4 Tarrasque"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg4MzkzNzkucG5n/300x240%23cb/gIuFYN.png",
+      "title": "Brave Zenith",
+      "cover_color": "#cd5045",
+      "id": 949286,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$12.50"
+    },
+    {
+      "short_text": "A game of inevitable prophecy",
+      "url": "https://raulranma.itch.io/agouro",
+      "classification": "physical_game",
+      "user": {
+        "id": 505327,
+        "url": "https://raulranma.itch.io",
+        "name": "Raul Fontoura"
+      },
+      "cover": "https://img.itch.zone/aW1nLzU5MzY5MTkucG5n/300x240%23cb/mWz%2F91.png",
+      "title": "Agouro",
+      "cover_color": "#eeeeee",
+      "id": 959160,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "A pastoral fantasy tabletop RPG about traveling animal-folk and the way they change with the seasons.",
+      "url": "https://possumcreekgames.itch.io/wanderhome",
+      "classification": "physical_game",
+      "user": {
+        "id": 1557436,
+        "url": "https://possumcreekgames.itch.io",
+        "name": "Possum Creek Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzU0NzA1MjIucG5n/300x240%23cb/t3%2BftR.png",
+      "title": "Wanderhome (Full PDF)",
+      "cover_color": "#fae2a6",
+      "id": 964107,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$25"
+    },
+    {
+      "short_text": "A game inspired by the first editions of 3D&T / Um jogo inspirado pelas primeiras edições de 3D&T",
+      "url": "https://tragos-games.itch.io/odet",
+      "classification": "physical_game",
+      "user": {
+        "id": 1011981,
+        "url": "https://tragos-games.itch.io",
+        "name": "Tragos Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzgzNTY3MTQucG5n/300x240%23cb/bUIFgg.png",
+      "title": "Defenders of Old Tokyo - OD&T",
+      "cover_color": "#bc002d",
+      "id": 980949,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "Scrolls from the Heavens powered by Backpack & Dream",
+      "url": "https://raulranma.itch.io/the-sign-bearer",
+      "classification": "physical_game",
+      "user": {
+        "id": 505327,
+        "url": "https://raulranma.itch.io",
+        "name": "Raul Fontoura"
+      },
+      "cover": "https://img.itch.zone/aW1nLzU5MzY4ODUucG5n/300x240%23cb/6aBwEE.png",
+      "title": "The Sign Bearer",
+      "cover_color": "#eeeeee",
+      "id": 984207,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "A microRPG about competitive cooking (hack of Gabo Kerr's Velouria)",
+      "url": "https://leonalfr.itch.io/chefshowdown",
+      "classification": "physical_game",
+      "user": {
+        "id": 1351057,
+        "url": "https://leonalfr.itch.io",
+        "name": "Leo Andrade"
+      },
+      "cover": "https://img.itch.zone/aW1nLzU2MDIzMTcucG5n/300x240%23cb/gbGi%2Fn.png",
+      "title": "CHEF SHOWDOWN",
+      "cover_color": "#eeeeee",
+      "id": 985319,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2.50"
+    },
+    {
+      "short_text": "A brief game revolving around burning passion",
+      "url": "https://runicagames.itch.io/the-gold-hack",
+      "classification": "physical_game",
+      "title": "The Gold Hack",
+      "cover": "https://img.itch.zone/aW1nLzU2ODI1ODMucG5n/300x240%23cb/PLR%2Fd8.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#eeeeee",
+      "id": 998395,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 3339274,
+        "url": "https://runicagames.itch.io",
+        "name": "Rúnica Games"
+      }
+    },
+    {
+      "short_text": "A \"gambling\" game about EPIC ANIME BATTLES",
+      "url": "https://gransvoid.itch.io/galaxy-fighterx",
+      "classification": "physical_game",
+      "user": {
+        "id": 4072244,
+        "url": "https://gransvoid.itch.io",
+        "name": "GRAN"
+      },
+      "cover": "https://img.itch.zone/aW1nLzc1MDUwNDQucG5n/300x240%23cb/uvJd9M.png",
+      "title": "Galaxy FighterX",
+      "cover_color": "#064393",
+      "id": 1060252,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "A weird sci-fi setting of a utopian socialist forested moon of \"elves\" and telepathic trees",
+      "url": "https://maik-malaik.itch.io/moon-elves",
+      "classification": "physical_game",
+      "user": {
+        "id": 3225376,
+        "url": "https://maik-malaik.itch.io",
+        "name": "Maik"
+      },
+      "cover": "https://img.itch.zone/aW1nLzY0MTY2NjIucG5n/300x240%23cb/S1s7Qb.png",
+      "title": "Moon Elves",
+      "cover_color": "#000000",
+      "id": 1102525,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "Who you gonna call?",
+      "url": "https://wuderpg.itch.io/clean-up-crew",
+      "classification": "physical_game",
+      "user": {
+        "id": 1848286,
+        "url": "https://wuderpg.itch.io",
+        "name": "WuDeRPG"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwNjI0MjU3LnBuZw==/300x240%23cb/VaQqX2.png",
+      "title": "Clean-Up Crew",
+      "cover_color": "#424242",
+      "id": 1113595,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$15"
+    },
+    {
+      "short_text": "A minimalist sword and witchcraft RPG",
+      "url": "https://lucasrolim.itch.io/dungeon-gig",
+      "classification": "physical_game",
+      "user": {
+        "id": 1535531,
+        "url": "https://lucasrolim.itch.io",
+        "name": "Lucas Rolim"
+      },
+      "cover": "https://img.itch.zone/aW1nLzY1OTA2NjkuanBn/300x240%23cb/1RGrLR.jpg",
+      "title": "Dungeon Gig",
+      "cover_color": "#eeeeee",
+      "id": 1136941,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "¡Un juego de rol donde serán plantas que eliminan zombies! #1pRPGjam",
+      "url": "https://rolesencia.itch.io/plants-army",
+      "classification": "physical_game",
+      "user": {
+        "id": 1812405,
+        "url": "https://rolesencia.itch.io",
+        "name": "Fluke Rolesencia"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwNzIyMzEzLnBuZw==/300x240%23cb/uEZ4CX.png",
+      "title": "PLANTS ARMY",
+      "cover_color": "#4a702b",
+      "id": 1137185,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "Souls Like Cairn Hack in mini zine format. Getter your comrades. Overthrow tyrants.",
+      "url": "https://coolwayink.itch.io/fromthemud",
+      "classification": "physical_game",
+      "user": {
+        "id": 228372,
+        "url": "https://coolwayink.itch.io",
+        "name": "coolwayink"
+      },
+      "cover": "https://img.itch.zone/aW1nLzY3NTgwMzMucG5n/300x240%23cb/aLWPhi.png",
+      "title": "From The Mud",
+      "cover_color": "#333333",
+      "id": 1162070,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$1"
+    },
+    {
+      "short_text": "A roleplaying game about the power of music, compatible with Mörk Borg",
+      "url": "https://tragos-games.itch.io/tyst-borg",
+      "classification": "physical_game",
+      "user": {
+        "id": 1011981,
+        "url": "https://tragos-games.itch.io",
+        "name": "Tragos Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzc1MDIwOTcucG5n/300x240%23cb/70s%2FBl.png",
+      "title": "Tyst Borg",
+      "cover_color": "#000000",
+      "id": 1194074,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "Solarpunk sci-fantasy mashup of BitD and 24XX in a post-post apocalypse world.",
+      "url": "https://davidblandy.itch.io/lost-eons",
+      "classification": "physical_game",
+      "user": {
+        "id": 3616661,
+        "url": "https://davidblandy.itch.io",
+        "name": "David Blandy"
+      },
+      "cover": "https://img.itch.zone/aW1nLzcwNTk2MDIuanBn/300x240%23cb/HfxX8%2F.jpg",
+      "title": "LOST EONS Core Books",
+      "cover_color": "#000000",
+      "id": 1212816,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$20"
+    },
+    {
+      "short_text": "Professional sports themed pilot and squad playbooks for Beam Saber",
+      "url": "https://v-for-valensa.itch.io/the-athlete",
+      "classification": "physical_game",
+      "user": {
+        "id": 198989,
+        "url": "https://v-for-valensa.itch.io",
+        "name": "V For Valensa"
+      },
+      "cover": "https://img.itch.zone/aW1nLzcxNTMzOTgucG5n/300x240%23cb/PaDJmi.png",
+      "title": "The Athlete & The Franchise: A Beam Saber Supply Drop",
+      "cover_color": "#0F5E6D",
+      "id": 1226664,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A timeloop mech pilot playbook for Beam Saber",
+      "url": "https://v-for-valensa.itch.io/the-breach-walker",
+      "classification": "physical_game",
+      "user": {
+        "id": 198989,
+        "url": "https://v-for-valensa.itch.io",
+        "name": "V For Valensa"
+      },
+      "cover": "https://img.itch.zone/aW1nLzcxNjAzMDcucG5n/300x240%23cb/zPZgSz.png",
+      "title": "The Breach Walker: A Beam Saber Playbook",
+      "cover_color": "#eeeeee",
+      "id": 1227678,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "A solo TTRPG about metamorphosis.",
+      "url": "https://clawhammergames.itch.io/athanor",
+      "classification": "physical_game",
+      "user": {
+        "id": 2720874,
+        "url": "https://clawhammergames.itch.io",
+        "name": "Clawhammer Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzczMTg1OTIucG5n/300x240%23cb/zFmVjM.png",
+      "title": "Athanor",
+      "cover_color": "#ead4b3",
+      "id": 1255351,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A No Dice No Masters game about magical girls. Save the day and try not to be late for school",
+      "url": "https://alicesv.itch.io/mew-mew-magic",
+      "classification": "physical_game",
+      "user": {
+        "id": 1025492,
+        "url": "https://alicesv.itch.io",
+        "name": "Alice V."
+      },
+      "cover": "https://img.itch.zone/aW1nLzc0MzA5NTcucG5n/300x240%23cb/EiAZv7.png",
+      "title": "Mew Mew Magic",
+      "cover_color": "#eedffa",
+      "id": 1276407,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$15"
+    },
+    {
+      "short_text": "A Fast & Furious inspired Beam Saber supplement",
+      "url": "https://austin-ramsay.itch.io/rushwars",
+      "classification": "physical_game",
+      "user": {
+        "id": 705849,
+        "url": "https://austin-ramsay.itch.io",
+        "name": "Austin Ramsay"
+      },
+      "cover": "https://img.itch.zone/aW1nLzc1NDMxMDYucG5n/300x240%23cb/Pmy%2BgL.png",
+      "title": "Beam Saber: Rush Wars",
+      "cover_color": "#02191D",
+      "id": 1296607,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "A mini hack",
+      "url": "https://lucasrolim.itch.io/minibx",
+      "classification": "physical_game",
+      "user": {
+        "id": 1535531,
+        "url": "https://lucasrolim.itch.io",
+        "name": "Lucas Rolim"
+      },
+      "cover": "https://img.itch.zone/aW1nLzc1Njg2MzMucG5n/300x240%23cb/7%2FlwYQ.png",
+      "title": "MiniBX",
+      "cover_color": "#5F3454",
+      "id": 1300932,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$30"
+    },
+    {
+      "short_text": "A Persona Inspired Hack for Masks: A New Generation",
+      "url": "https://fivepointsgames.itch.io/the-midnight-generation",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzExMjA0MDU5LnBuZw==/300x240%23cb/eIEB%2FE.png",
+      "title": "The Midnight Generation",
+      "user": {
+        "id": 28851,
+        "url": "https://fivepointsgames.itch.io",
+        "name": "Five Points Games"
+      },
+      "id": 1332815,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$15"
+    },
+    {
+      "short_text": "A thriller TTRPG about amnesia.",
+      "url": "https://mundosinfinitos.itch.io/in-memoriam-dreams-of-lethe",
+      "classification": "physical_game",
+      "user": {
+        "id": 3270465,
+        "url": "https://mundosinfinitos.itch.io",
+        "name": "Mundos Infinitos"
+      },
+      "cover": "https://img.itch.zone/aW1nLzc3NjgyOTMuanBn/300x240%23cb/yvb1Qn.jpg",
+      "title": "In Memoriam: Dreams of Lethe",
+      "cover_color": "#bccbd2",
+      "id": 1335263,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "Un juego de rol para enfrentar al mal con algo más que golpes.",
+      "url": "https://rolesencia.itch.io/el-reino-de-la-virtud",
+      "classification": "physical_game",
+      "user": {
+        "id": 1812405,
+        "url": "https://rolesencia.itch.io",
+        "name": "Fluke Rolesencia"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwNzI3ODYzLmpwZw==/300x240%23cb/%2FHl267.jpg",
+      "title": "El Reino de la Virtud",
+      "cover_color": "#d6462b",
+      "id": 1336514,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A Freeform High-Fantasy Grand Strategy Game/Hack/Reskin",
+      "url": "https://gransvoid.itch.io/pantheon-planning",
+      "classification": "physical_game",
+      "user": {
+        "id": 4072244,
+        "url": "https://gransvoid.itch.io",
+        "name": "GRAN"
+      },
+      "cover": "https://img.itch.zone/aW1nLzc5MDk2MjcucG5n/300x240%23cb/rtaT82.png",
+      "title": "Pantheon Planning",
+      "cover_color": "#4f6781",
+      "id": 1358584,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "A TTRPG about werewolves against their masters.",
+      "url": "https://mundosinfinitos.itch.io/chronicles-of-savage-horror",
+      "classification": "physical_game",
+      "user": {
+        "id": 3270465,
+        "url": "https://mundosinfinitos.itch.io",
+        "name": "Mundos Infinitos"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwMTcwODA3LmdpZg==/300x240%23cmb/WT%2FahV.gif",
+      "title": "Chronicles of Savage Horror",
+      "cover_color": "#eeeeee",
+      "id": 1385342,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "A Weird adventure for World of Dungeons",
+      "url": "https://mrdrhobo.itch.io/noctis-labyrinth",
+      "classification": "physical_game",
+      "user": {
+        "id": 2772134,
+        "url": "https://mrdrhobo.itch.io",
+        "name": "MRDR HOBO"
+      },
+      "cover": "https://img.itch.zone/aW1nLzgyNzE5NzcuanBn/300x240%23cb/wHCC3F.jpg",
+      "title": "Noctis Labyrinth",
+      "cover_color": "#fd823e",
+      "id": 1420290,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$25"
+    },
+    {
+      "short_text": "A rules-light TTRPG about good-natured art heisting in the 90s.",
+      "url": "https://leonalfr.itch.io/beutekunst",
+      "classification": "physical_game",
+      "user": {
+        "id": 1351057,
+        "url": "https://leonalfr.itch.io",
+        "name": "Leo Andrade"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg0MTM1ODAucG5n/300x240%23cb/MOKdfL.png",
+      "title": "Beutekunst",
+      "cover_color": "#f6f3e9",
+      "id": 1435355,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "CBR+PNK Last Run with Google Drive hacker puzzle.",
+      "url": "https://leonardo-azevedo.itch.io/sun-of-a-glitch",
+      "classification": "physical_game",
+      "user": {
+        "id": 3380046,
+        "url": "https://leonardo-azevedo.itch.io",
+        "name": "Leonardo Azevedo"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg5ODA4NDguZ2lm/300x240%23cmb/9W3eNP.gif",
+      "title": "Sun of a Glitch",
+      "cover_color": "#eeeeee",
+      "id": 1448282,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$6"
+    },
+    {
+      "short_text": "A dwarven communist manifesto.",
+      "url": "https://mundosinfinitos.itch.io/dwarven-common-rule",
+      "classification": "physical_game",
+      "title": "Dwarven Common Rule",
+      "cover": "https://img.itch.zone/aW1nLzg1MDI0NTkuanBn/300x240%23cb/R2T343.jpg",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#63231a",
+      "id": 1456179,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 3270465,
+        "url": "https://mundosinfinitos.itch.io",
+        "name": "Mundos Infinitos"
+      }
+    },
+    {
+      "short_text": "A rules-light, grimdark science fantasy, RPG",
+      "url": "https://gransvoid.itch.io/death-world",
+      "classification": "physical_game",
+      "user": {
+        "id": 4072244,
+        "url": "https://gransvoid.itch.io",
+        "name": "GRAN"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg1MDcyMDgucG5n/300x240%23cb/E1IjiK.png",
+      "title": "Death World",
+      "cover_color": "#000000",
+      "id": 1456277,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A tabletop horror RPG about mortality and growth, set in an uncanny, creature-infested version of 1890s Louisiana.",
+      "url": "https://clawhammergames.itch.io/gravemire",
+      "classification": "physical_game",
+      "user": {
+        "id": 2720874,
+        "url": "https://clawhammergames.itch.io",
+        "name": "Clawhammer Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg1MTIwMTgucG5n/300x240%23cb/6fAPpH.png",
+      "title": "Gravemire",
+      "cover_color": "#324A2E",
+      "id": 1457970,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$15"
+    },
+    {
+      "short_text": "Cursed vampires of the Cradle Lands seeking revenge!",
+      "url": "https://leonardo-azevedo.itch.io/red-moon-hunt",
+      "classification": "physical_game",
+      "user": {
+        "id": 3380046,
+        "url": "https://leonardo-azevedo.itch.io",
+        "name": "Leonardo Azevedo"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg5ODA3NzEuZ2lm/300x240%23cmb/kysDzq.gif",
+      "title": "Red Moon Hunt",
+      "cover_color": "#000000",
+      "id": 1458353,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "A TTRPG mini-adventure set outside the dungeon",
+      "url": "https://philipjensen.itch.io/cadmons-cozy-coffee-shop",
+      "classification": "physical_game",
+      "user": {
+        "id": 3330585,
+        "url": "https://philipjensen.itch.io",
+        "name": "Philip Jensen"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg1NDEyMTQuanBn/300x240%23cb/T752K2.jpg",
+      "title": "Cadmon's Cozy Coffee Shop",
+      "cover_color": "#8f6c8f",
+      "id": 1463603,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2.50"
+    },
+    {
+      "short_text": "A advanced adventure for Death in Space.",
+      "url": "https://leonardo-azevedo.itch.io/the-birth-of-inauro",
+      "classification": "physical_game",
+      "user": {
+        "id": 3380046,
+        "url": "https://leonardo-azevedo.itch.io",
+        "name": "Leonardo Azevedo"
+      },
+      "cover": "https://img.itch.zone/aW1nLzg5ODA5MTQuZ2lm/300x240%23cmb/m%2F5qYv.gif",
+      "title": "The Birth of Inauro",
+      "cover_color": "#000000",
+      "id": 1499731,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$4"
+    },
+    {
+      "short_text": "Quilombo Zero é uma TTRPG fortemente inspirado em Watch Dogs e em Mojubá RPG, que se passa  em uma favela futurista.",
+      "url": "https://lucasnwd.itch.io/quilomb0",
+      "classification": "physical_game",
+      "title": "Quilomb0",
+      "cover": "https://img.itch.zone/aW1nLzg3NjgxMTEucG5n/300x240%23cb/12NIno.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "cover_color": "#ffffff",
+      "id": 1500596,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1414982,
+        "url": "https://lucasnwd.itch.io",
+        "name": "lucasnwd"
+      }
+    },
+    {
+      "short_text": "Prophesied heroes must cross Goblinland to end the war… Too bad for them! You’re goblins! Stop them!",
+      "url": "https://alicesv.itch.io/goblinland",
+      "classification": "physical_game",
+      "user": {
+        "id": 1025492,
+        "url": "https://alicesv.itch.io",
+        "name": "Alice V."
+      },
+      "cover": "https://img.itch.zone/aW1nLzkwNzIyMzYuanBn/300x240%23cb/xTgfpY.jpg",
+      "title": "Journey through Goblinland",
+      "cover_color": "#483835",
+      "id": 1529007,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$7"
+    },
+    {
+      "short_text": "a 4d20 table for generating unusual jewels",
+      "url": "https://taichara.itch.io/most-precious-beauty",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzg5NjA0NTYucG5n/300x240%23cb/pXRQot.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "user": {
+        "id": 1645234,
+        "url": "https://taichara.itch.io",
+        "name": "taichara"
+      },
+      "id": 1536190,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "title": "Most Precious Beauty"
+    },
+    {
+      "short_text": "a Push Powered game of super spies and martinis",
+      "url": "https://truefeyqueen888.itch.io/shaken-not-stirred-a-push-game",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzkzNDAwODguanBn/300x240%23cb/Es3Ih4.jpg",
+      "title": "Shaken, Not Stirred - A Push Game",
+      "user": {
+        "id": 1966430,
+        "url": "https://truefeyqueen888.itch.io",
+        "name": "TrueFeyQueen888"
+      },
+      "id": 1596866,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$4.44"
+    },
+    {
+      "short_text": "a one-page rpg about a very cursed sword",
+      "url": "https://ahcoffeebeans.itch.io/sword-poem",
+      "classification": "physical_game",
+      "user": {
+        "id": 304676,
+        "url": "https://ahcoffeebeans.itch.io",
+        "name": "coffee johnson"
+      },
+      "cover": "https://img.itch.zone/aW1nLzk2MTI2OTUucG5n/300x240%23cb/GVrX9v.png",
+      "title": "SWORD POEM RPG",
+      "cover_color": "#ffffff",
+      "id": 1635052,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "Un juego de rol solitario para explorar el viaje de un artista marcial #1pRPGjam",
+      "url": "https://rolesencia.itch.io/martial-record",
+      "classification": "physical_game",
+      "user": {
+        "id": 1812405,
+        "url": "https://rolesencia.itch.io",
+        "name": "Fluke Rolesencia"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwNzI0NjQ4LmpwZw==/300x240%23cb/IpEhZu.jpg",
+      "title": "Martial Record",
+      "cover_color": "#877a4b",
+      "id": 1672864,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "A solo TTRPG about escaping a prison – roll d6s and slaughter monsters",
+      "url": "https://philipjensen.itch.io/mork-faengsel",
+      "classification": "physical_game",
+      "user": {
+        "id": 3330585,
+        "url": "https://philipjensen.itch.io",
+        "name": "Philip Jensen"
+      },
+      "cover": "https://img.itch.zone/aW1nLzk5NzY4OTkuanBn/300x240%23cb/znJPEH.jpg",
+      "title": "MØRK FÆNGSEL",
+      "cover_color": "#ffffff",
+      "id": 1693335,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2.50"
+    },
+    {
+      "short_text": "New statue-type enemies for Mork Borg.",
+      "url": "https://leonardo-azevedo.itch.io/statua-mortale",
+      "classification": "physical_game",
+      "user": {
+        "id": 3380046,
+        "url": "https://leonardo-azevedo.itch.io",
+        "name": "Leonardo Azevedo"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwMDE1NDM1LnBuZw==/300x240%23cb/ns45rd.png",
+      "title": "Statua Mortale",
+      "cover_color": "#595959",
+      "id": 1700043,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "A game about being a guardian spirit misunderstood as a demon.",
+      "url": "https://capacle.itch.io/not-a-demon",
+      "classification": "physical_game",
+      "user": {
+        "id": 1614721,
+        "url": "https://capacle.itch.io",
+        "name": "Cezar Capacle"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwMjk4MDg3LnBuZw==/300x240%23cb/OGg6l0.png",
+      "title": "Not a Demon",
+      "cover_color": "#eeeeee",
+      "id": 1750426,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$14.90"
+    },
+    {
+      "short_text": "“Correcting the past, improving the future.” - Ret-Chron",
+      "url": "https://amidabosatsu.itch.io/revisionist-historian-training-module-i",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzEwNDQ0MTk4LmpwZw==/300x240%23cb/6wl8lz.jpg",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "user": {
+        "id": 5441833,
+        "url": "https://amidabosatsu.itch.io",
+        "name": "AmidaBosatsu"
+      },
+      "id": 1776723,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "title": "Revisionist Historian Training Module I"
+    },
+    {
+      "short_text": "quixotically recurring dungeon merchant",
+      "url": "https://taichara.itch.io/the-peddler-of-mycosi",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzEwNTQ4MDc1LnBuZw==/300x240%23cb/IFz4VG.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "user": {
+        "id": 1645234,
+        "url": "https://taichara.itch.io",
+        "name": "taichara"
+      },
+      "id": 1795413,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "title": "The Peddler Of Mycosi"
+    },
+    {
+      "short_text": "Postcolonial mapmaking game where everyone has a secret",
+      "url": "https://davidblandy.itch.io/gathering-storm",
+      "classification": "physical_game",
+      "user": {
+        "id": 3616661,
+        "url": "https://davidblandy.itch.io",
+        "name": "David Blandy"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwNzY1MDc2LmpwZw==/300x240%23cb/vJ%2BZOa.jpg",
+      "title": "Gathering Storm",
+      "cover_color": "#000000",
+      "id": 1833712,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "Simple TTRPG about demigods",
+      "url": "https://gransvoid.itch.io/godspawn",
+      "classification": "physical_game",
+      "user": {
+        "id": 4072244,
+        "url": "https://gransvoid.itch.io",
+        "name": "GRAN"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEwNzkzNzI5LnBuZw==/300x240%23cb/cjfMon.png",
+      "title": "Godspawn",
+      "cover_color": "#eeeeee",
+      "id": 1834989,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "Minimalist Sword & Song Adventure Game",
+      "url": "https://coolwayink.itch.io/forgottenballad",
+      "classification": "physical_game",
+      "user": {
+        "id": 228372,
+        "url": "https://coolwayink.itch.io",
+        "name": "coolwayink"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEyNTM5MjcyLmdpZg==/300x240%23cmb/z3LbSm.gif",
+      "title": "Forgotten Ballad",
+      "cover_color": "#0a1507",
+      "id": 1881360,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$12"
+    },
+    {
+      "short_text": "A GMless ttrpg about two teams of thieves racing for the same prize!",
+      "url": "https://sulcata.itch.io/counterheist",
+      "classification": "physical_game",
+      "user": {
+        "id": 183983,
+        "url": "https://sulcata.itch.io",
+        "name": "sulcata | Brendan McLeod"
+      },
+      "cover": "https://img.itch.zone/aW1nLzExNjE3MTU0LnBuZw==/300x240%23cb/VjQN%2B4.png",
+      "title": "COUNTERHEIST",
+      "cover_color": "#3b3838",
+      "id": 1891462,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "Don't call me Dick, call me Ishmael!",
+      "url": "https://wuderpg.itch.io/rise-of-the-dick",
+      "classification": "physical_game",
+      "title": "Rise of the Dick",
+      "cover": "https://img.itch.zone/aW1nLzExMTI2MTgzLnBuZw==/300x240%23cb/1%2B1cru.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#fefccc",
+      "id": 1892953,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1848286,
+        "url": "https://wuderpg.itch.io",
+        "name": "WuDeRPG"
+      }
+    },
+    {
+      "short_text": "A cozy game about found family in space",
+      "url": "https://sdunnewold.itch.io/space-fam",
+      "classification": "physical_game",
+      "user": {
+        "id": 1449820,
+        "url": "https://sdunnewold.itch.io",
+        "name": "sdunnewold"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE2MDE0MDI0LmpwZw==/300x240%23cb/9RBxgE.jpg",
+      "title": "Space Fam",
+      "cover_color": "#1e3423",
+      "id": 1896077,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5.99"
+    },
+    {
+      "short_text": "Can you survive?",
+      "url": "https://wuderpg.itch.io/spared",
+      "classification": "physical_game",
+      "user": {
+        "id": 1848286,
+        "url": "https://wuderpg.itch.io",
+        "name": "WuDeRPG"
+      },
+      "cover": "https://img.itch.zone/aW1nLzExMzM4MTcyLnBuZw==/300x240%23cb/nEy20e.png",
+      "title": "Spared",
+      "cover_color": "#eeeeee",
+      "id": 1928557,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5.55"
+    },
+    {
+      "short_text": "A heists and hijinks game about when plans go terribly wrong for all the right reasons!",
+      "url": "https://fivepointsgames.itch.io/blasting-off-again",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzExNDAzNDcyLnBuZw==/300x240%23cb/lKXFqJ.png",
+      "title": "Blasting Off Again!",
+      "user": {
+        "id": 28851,
+        "url": "https://fivepointsgames.itch.io",
+        "name": "Five Points Games"
+      },
+      "id": 1939444,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "an oldschool rpg bitty bestiary",
+      "url": "https://taichara.itch.io/kristin-saint-clairs-little-book-of-beasts",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzExNTk3MTczLnBuZw==/300x240%23cb/iNm5Am.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "user": {
+        "id": 1645234,
+        "url": "https://taichara.itch.io",
+        "name": "taichara"
+      },
+      "id": 1972319,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "title": "Kristin Saint-Clair's Little Book of Beasts"
+    },
+    {
+      "short_text": "A Solo Journaling Game in a weird west world.",
+      "url": "https://laesquinadelrol.itch.io/monsterhunter",
+      "classification": "physical_game",
+      "user": {
+        "id": 3284565,
+        "url": "https://laesquinadelrol.itch.io",
+        "name": "Mario | La esquina del rol"
+      },
+      "cover": "https://img.itch.zone/aW1nLzExNjIwOTQ3LnBuZw==/300x240%23cb/DP%2FTFp.png",
+      "title": "Monster Hunter",
+      "cover_color": "#eeeeee",
+      "id": 1976115,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$4"
+    },
+    {
+      "short_text": "A root'n, toot'n game of Cretaceous magic slinging action in the Wild West",
+      "url": "https://fivepointsgames.itch.io/rex-arcana",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzEyMTA5Mzc2LnBuZw==/300x240%23cb/O922qi.png",
+      "title": "Rex-Arcana",
+      "user": {
+        "id": 28851,
+        "url": "https://fivepointsgames.itch.io",
+        "name": "Five Points Games"
+      },
+      "id": 1989877,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "CY_BORG location with adventure hooks",
+      "url": "https://philipjensen.itch.io/lttpr-vr-cafe",
+      "classification": "physical_game",
+      "user": {
+        "id": 3330585,
+        "url": "https://philipjensen.itch.io",
+        "name": "Philip Jensen"
+      },
+      "cover": "https://img.itch.zone/aW1nLzExODI1MTQ5LmpwZw==/300x240%23cb/y2cQrN.jpg",
+      "title": "LTTPR VR CAFÉ",
+      "cover_color": "#0f0f0f",
+      "id": 2010993,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "Wish me luck!",
+      "url": "https://luluzinharpg.itch.io/divindice",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzEyNTMwOTQzLnBuZw==/300x240%23cb/LMzmFL.png",
+      "title": "Divindice",
+      "user": {
+        "id": 7477637,
+        "url": "https://luluzinharpg.itch.io",
+        "name": "A Luluzinha"
+      },
+      "id": 2036374,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "An anticapitalist Lasers & Feelings hack",
+      "url": "https://daniel-herczeg.itch.io/fuck-capitalism-go-home-the-ttrpg",
+      "classification": "physical_game",
+      "title": "Fuck Capitalism, Go Home: The TTRPG",
+      "cover": "https://img.itch.zone/aW1nLzEyMzkyMzExLmpwZw==/300x240%23cb/fcY8gt.jpg",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#E9E7D2",
+      "id": 2100690,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1850884,
+        "url": "https://daniel-herczeg.itch.io",
+        "name": "DH"
+      }
+    },
+    {
+      "short_text": "pastoral, liminal RPG setting for Troika.",
+      "url": "https://technicalgrimoire.itch.io/bridgetown",
+      "classification": "physical_game",
+      "user": {
+        "id": 28697,
+        "url": "https://technicalgrimoire.itch.io",
+        "name": "Technical Grimoire Games"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEyNDA5NDMyLnBuZw==/300x240%23cb/I63Vur.png",
+      "title": "Bridgetown",
+      "cover_color": "#eeeeee",
+      "id": 2104994,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$15"
+    },
+    {
+      "short_text": "A TTRPG in which a lonely Monk embarks on a quest to restore order.",
+      "url": "https://dsteph.itch.io/monk",
+      "classification": "physical_game",
+      "user": {
+        "id": 7254401,
+        "url": "https://dsteph.itch.io",
+        "name": "Stéphanie Dusablon"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEyNDE4Njg4LmpwZw==/300x240%23cb/97OYIl.jpg",
+      "title": "Monk",
+      "cover_color": "#4d2731",
+      "id": 2109518,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$6"
+    },
+    {
+      "short_text": "CBR+PNK Last Run with Google Drive epic boss fight.",
+      "url": "https://leonardo-azevedo.itch.io/basilisk",
+      "classification": "physical_game",
+      "user": {
+        "id": 3380046,
+        "url": "https://leonardo-azevedo.itch.io",
+        "name": "Leonardo Azevedo"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEyNzQ1MzU2LmdpZg==/300x240%23cmb/XIRJeT.gif",
+      "title": "BASILISK",
+      "cover_color": "#000000",
+      "id": 2131944,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "An eldritch fantasy game.",
+      "url": "https://snowttrpg.itch.io/songbirds-3e",
+      "platforms": [
+        "web"
+      ],
+      "classification": "physical_game",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEyNTgyMDYyLnBuZw==/300x240%23cb/G6QxI0.png",
+      "cover_color": "#eeeeee",
+      "title": "Songbirds 3e",
+      "id": 2133138,
+      "flag": "web",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1471196,
+        "url": "https://snowttrpg.itch.io",
+        "name": "snow"
+      }
+    },
+    {
+      "short_text": "Um TTRPG para ilustradores e aspirantes.",
+      "url": "https://lucasnwd.itch.io/sistema-nanquim",
+      "classification": "physical_game",
+      "title": "Sistema Nanquim",
+      "cover": "https://img.itch.zone/aW1nLzEzMTcwNzA5LnBuZw==/300x240%23cb/gtgu0z.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#eeeeee",
+      "id": 2225432,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1414982,
+        "url": "https://lucasnwd.itch.io",
+        "name": "lucasnwd"
+      }
+    },
+    {
+      "short_text": "A solo journaling journey into the multiverse",
+      "url": "https://jimmyshelter.itch.io/hiria",
+      "classification": "physical_game",
+      "user": {
+        "id": 3952984,
+        "url": "https://jimmyshelter.itch.io",
+        "name": "JimmyShelter"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEzMTg1NjQzLnBuZw==/300x240%23cb/3%2FTu9f.png",
+      "title": "Hiria: the Eternal City",
+      "cover_color": "#C1A1BB",
+      "id": 2227694,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$10"
+    },
+    {
+      "short_text": "Hack into the mind of a friend to save them from becoming a weapon.",
+      "url": "https://jota-pe-corvuja.itch.io/akuma-labyrinth-of-the-mind",
+      "classification": "physical_game",
+      "user": {
+        "id": 1761498,
+        "url": "https://jota-pe-corvuja.itch.io",
+        "name": "Jota Pe Corvuja"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEzMzA2MjU4LnBuZw==/300x240%23cb/704O7q.png",
+      "title": "Akuma: Labyrinth of the Mind",
+      "cover_color": "#070707",
+      "id": 2245755,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A ninja story pamphlet TTRPG.",
+      "url": "https://mundosinfinitos.itch.io/kindan-ninpouchou-yami-no-michi",
+      "classification": "physical_game",
+      "user": {
+        "id": 3270465,
+        "url": "https://mundosinfinitos.itch.io",
+        "name": "Mundos Infinitos"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEzNTA5NjYxLmdpZg==/300x240%23cmb/BQ1GKI.gif",
+      "title": "Kindan Ninpouchou: Yami no Michi",
+      "cover_color": "#412346",
+      "id": 2279928,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "a remaster to the award-winning and innovative ttrpg, .dungeon.",
+      "url": "https://snowttrpg.itch.io/dungeonremastered",
+      "classification": "physical_game",
+      "user": {
+        "id": 1471196,
+        "url": "https://snowttrpg.itch.io",
+        "name": "snow"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEzNjEwOTE4LmdpZg==/300x240%23cmb/qGLUcj.gif",
+      "title": ".dungeon//remastered",
+      "cover_color": "#ffffff",
+      "id": 2296474,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$20"
+    },
+    {
+      "short_text": "A cinematic slasher RPG for tense one-shots. Fear in a handful of dice.",
+      "url": "https://leonalfr.itch.io/death-sentence",
+      "classification": "physical_game",
+      "user": {
+        "id": 1351057,
+        "url": "https://leonalfr.itch.io",
+        "name": "Leo Andrade"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEzNjkyMzcxLnBuZw==/300x240%23cb/j7zHbz.png",
+      "title": "Death Sentence",
+      "cover_color": "#000000",
+      "id": 2301263,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$7.50"
+    },
+    {
+      "short_text": "kill the dream of an eternal city",
+      "url": "https://ahcoffeebeans.itch.io/robins",
+      "classification": "physical_game",
+      "user": {
+        "id": 304676,
+        "url": "https://ahcoffeebeans.itch.io",
+        "name": "coffee johnson"
+      },
+      "cover": "https://img.itch.zone/aW1nLzEzODgzNDA3LnBuZw==/300x240%23cb/ExNiAR.png",
+      "title": "robins",
+      "cover_color": "#334c96",
+      "id": 2342107,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$6"
+    },
+    {
+      "short_text": "The hunter becomes the prey",
+      "url": "https://wuderpg.itch.io/rise-of-the-runner",
+      "classification": "physical_game",
+      "title": "Rise of the Runner",
+      "cover": "https://img.itch.zone/aW1nLzE0MDA4MDIyLnBuZw==/300x240%23cb/q%2B8iVz.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#eeeeee",
+      "id": 2365074,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1848286,
+        "url": "https://wuderpg.itch.io",
+        "name": "WuDeRPG"
+      }
+    },
+    {
+      "short_text": "Embody your GENDER to find the truth and break free from your assigned fate",
+      "url": "https://aryl-ether.itch.io/convict-ion",
+      "classification": "physical_game",
+      "user": {
+        "id": 1243592,
+        "url": "https://aryl-ether.itch.io",
+        "name": "W.H. Arthur"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE1NzEyNDQ1LnBuZw==/300x240%23cb/cAhoS6.png",
+      "title": "CONVICT-ION",
+      "cover_color": "#9C59D1",
+      "id": 2370566,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$4.20"
+    },
+    {
+      "short_text": "A Story Starting game",
+      "url": "https://v-for-valensa.itch.io/you-meet-at-a-fantasy-tavern",
+      "classification": "physical_game",
+      "user": {
+        "id": 198989,
+        "url": "https://v-for-valensa.itch.io",
+        "name": "V For Valensa"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE0MTY2Mzg0LnBuZw==/300x240%23cb/x%2FiDGg.png",
+      "title": "You Meet at a Fantasy Tavern",
+      "cover_color": "#eeeee2",
+      "id": 2384834,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$3"
+    },
+    {
+      "short_text": "What would you tell your younger self?",
+      "url": "https://amidabosatsu.itch.io/be-kind-to-yourself",
+      "classification": "physical_game",
+      "title": "Be Kind to Yourself",
+      "cover": "https://img.itch.zone/aW1nLzE0MTU0OTYwLmpwZw==/300x240%23cb/YFvAeG.jpg",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#ffffff",
+      "id": 2391184,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 5441833,
+        "url": "https://amidabosatsu.itch.io",
+        "name": "AmidaBosatsu"
+      }
+    },
+    {
+      "short_text": "a minizine of animal spirit charms",
+      "url": "https://taichara.itch.io/beasts-in-shining-beads",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzE0MTg0NDY1LmpwZw==/300x240%23cb/dNqCx6.jpg",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "user": {
+        "id": 1645234,
+        "url": "https://taichara.itch.io",
+        "name": "taichara"
+      },
+      "id": 2396351,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "title": "Beasts In Shining Beads"
+    },
+    {
+      "short_text": "the struggle within",
+      "url": "https://wuderpg.itch.io/souruama",
+      "classification": "physical_game",
+      "title": "souruāmā",
+      "cover": "https://img.itch.zone/aW1nLzE0MjAzMjU3LnBuZw==/300x240%23cb/WAXxco.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#e01111",
+      "id": 2399521,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1848286,
+        "url": "https://wuderpg.itch.io",
+        "name": "WuDeRPG"
+      }
+    },
+    {
+      "short_text": "Cute, brave and powerful!",
+      "url": "https://luluzinharpg.itch.io/pet-heroines",
+      "classification": "physical_game",
+      "cover": "https://img.itch.zone/aW1nLzE0NTAxOTQ5LnBuZw==/300x240%23cb/6LSkiG.png",
+      "title": "Pet Heroines",
+      "user": {
+        "id": 7477637,
+        "url": "https://luluzinharpg.itch.io",
+        "name": "A Luluzinha"
+      },
+      "id": 2447518,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$4"
+    },
+    {
+      "short_text": "Undead-dungeon TTRPG",
+      "url": "https://mundosinfinitos.itch.io/profanatum",
+      "classification": "physical_game",
+      "user": {
+        "id": 3270465,
+        "url": "https://mundosinfinitos.itch.io",
+        "name": "Mundos Infinitos"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE0NTY0MDU4LmdpZg==/300x240%23cmb/074d82.gif",
+      "title": "Profanatum",
+      "cover_color": "#0f0e0e",
+      "id": 2456235,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "Jogue com moedas ou búzios",
+      "url": "https://lucasnwd.itch.io/3d2",
+      "classification": "physical_game",
+      "title": "Sistema 3D2",
+      "cover": "https://img.itch.zone/aW1nLzE0ODUwNDIwLnBuZw==/300x240%23cb/FyDdNn.png",
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "cover_color": "#eeeeee",
+      "id": 2499966,
+      "flag": "free",
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "user": {
+        "id": 1414982,
+        "url": "https://lucasnwd.itch.io",
+        "name": "lucasnwd"
+      }
+    },
+    {
+      "short_text": "A pastoralist pilot playbook for Beam Saber",
+      "url": "https://v-for-valensa.itch.io/die-hausmeister",
+      "classification": "physical_game",
+      "user": {
+        "id": 198989,
+        "url": "https://v-for-valensa.itch.io",
+        "name": "V For Valensa"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE1NTE0OTc5LnBuZw==/300x240%23cb/4Y7D4c.png",
+      "title": "Die Hausmeister: A Beam Saber Playbook",
+      "cover_color": "#fbe5a9",
+      "id": 2604703,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$5"
+    },
+    {
+      "short_text": "A one-card solo role-playing game to play while listening to music and walking or traveling somewhere.",
+      "url": "https://laesquinadelrol.itch.io/zapping-your-mood",
+      "classification": "physical_game",
+      "user": {
+        "id": 3284565,
+        "url": "https://laesquinadelrol.itch.io",
+        "name": "Mario | La esquina del rol"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE1NjkxNDQ0LnBuZw==/300x240%23cb/0s68GU.png",
+      "title": "Zapping your Mood",
+      "cover_color": "#ffffff",
+      "id": 2633169,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:42"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$1"
+    },
+    {
+      "short_text": "a game about revenge and what comes next",
+      "url": "https://takataapui.itch.io/two-graves",
+      "classification": "physical_game",
+      "user": {
+        "id": 2494382,
+        "url": "https://takataapui.itch.io",
+        "name": "Riwhi"
+      },
+      "cover": "https://img.itch.zone/aW1nLzE1NzI0MDg2LnBuZw==/300x240%23cb/utb3og.png",
+      "title": "Two Graves",
+      "cover_color": "#f1daa7",
+      "id": 2638665,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "tags": [
+        {
+          "url": "/physical-games",
+          "name": "Physical games"
+        }
+      ],
+      "price": "$2"
+    },
+    {
+      "short_text": "A world in a deck of cards.",
+      "url": "https://nobilepress.itch.io/warofthepips",
+      "classification": "other",
+      "cover": "https://img.itch.zone/aW1nLzE1OTQyNjExLnBuZw==/300x240%23c/BHgrH7.png",
+      "user": {
+        "id": 4173761,
+        "url": "https://nobilepress.itch.io",
+        "name": "vinny2barrels"
+      },
+      "cover_color": "#fafaf9",
+      "id": 2675033,
+      "bundle_game": {
+        "created_at": "2024-05-17 17:01:43"
+      },
+      "title": "War of the Pips",
+      "price": "$15"
+    }
+  ]
+}
