@@ -134,6 +134,7 @@ async function computeBundleValue() {
         : undefined,
     ])
   );
+  // FIXME: This looks silly when the only currency in use is USD. Omit stringified when that's the case.
   const stringified = Object.entries(value)
     .map(([symbol, amount]) =>
       formatters[symbol]
@@ -157,9 +158,10 @@ async function computeBundleValue() {
     style: "currency",
     currency: "USD",
   });
-  const msg = `${
+  const countFmt = new Intl.NumberFormat("en-US");
+  const msg = `${countFmt.format(
     unownedGames.length
-  } new games. Approximate total value in USD: ${fmt.format(approx)}${
+  )} new games. Approximate total value in USD: ${fmt.format(approx)}${
     stringified ? `, by way of ${stringified}` : ""
   }.`;
   console.log(msg);
@@ -168,7 +170,7 @@ async function computeBundleValue() {
 }
 
 console.log('Loaded user script: Itch.io Bundle Valuer')
-let done = () => {}
+let done = (_) => {}
 let bundleValueMessage = new Promise(resolve => { done = resolve })
 const observer = new MutationObserver(async (_mutations, _observer) => {
     const msg = await bundleValueMessage;

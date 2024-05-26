@@ -23,7 +23,9 @@ let codes = {
 };
 async function valueGames() {
   // Generate test games.json with: jq [.[].games.[]] < purchased_bundles_games_1716577193188.json > games.json
-  const games = JSON.parse(Deno.readTextFileSync("games.json"));
+  const games = JSON.parse(
+    Deno.readTextFileSync(`${import.meta.dirname}/../Example Data/games.json`)
+  );
   const unownedGames = games.filter((it) => !ownedGameIds.has(it.id));
   console.log(
     `JWS: Found ${games.length} total games, ${unownedGames.length} unowned games.`
@@ -81,9 +83,10 @@ async function valueGames() {
     style: "currency",
     currency: "USD",
   });
-  const msg = `${
+  const countFmt = new Intl.NumberFormat("en-US");
+  const msg = `${countFmt.format(
     unownedGames.length
-  } new games. Approximate total value in USD: ${fmt.format(approx)}${
+  )} new games. Approximate total value in USD: ${fmt.format(approx)}${
     stringified ? `, by way of ${stringified}` : ""
   }.`;
   console.log(msg);
