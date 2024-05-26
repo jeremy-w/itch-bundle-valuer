@@ -1,3 +1,5 @@
+// Licensed under the [BlueOak-1.0.0 license](https://blueoakcouncil.org/license/1.0.0) by [Jeremy W. Sherman](https://jeremywsherman.com), except for the Stack Overflow snippet, which remains under its own license.
+// Canonical repository: https://github.com/jeremy-w/itch-bundle-valuer
 const ownedGameIds = new Set([
   991210, 991585, 991647, 992475, 992974, 993481, 993948, 994932, 995638,
   995771, 996175, 99668, 997159, 997479, 997757, 998150, 999294,

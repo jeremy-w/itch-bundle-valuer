@@ -1,4 +1,7 @@
+// Dev Console Script
 // EXECUTION CONTEXT: https://itch.io/my-purchases
+// Licensed under the [BlueOak-1.0.0 license](https://blueoakcouncil.org/license/1.0.0) by [Jeremy W. Sherman](https://jeremywsherman.com), except for the Stack Overflow snippet, which remains under its own license.
+// Canonical repository: https://github.com/jeremy-w/itch-bundle-valuer
 /**
 @typedef {Object} PurchasePage
 @property {string}  content HTML when there are items, empty string if none.

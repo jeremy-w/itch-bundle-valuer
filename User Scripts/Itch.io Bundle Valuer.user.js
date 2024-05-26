@@ -1,7 +1,11 @@
 // ==UserScript==
 // @name        Itch.io Bundle Valuer
-// @description Computes the value in a charity bundle of un-owned games.
+// @description Shows value of unowned games in a charity bundle, and shows each game's price alongside its title. NOTE: Only works if you edit the script to change the `ownedGameIds` variable to list the games that you own, rather than me.
 // @match       https://itch.io/b/*
+// @author      Jeremy W. Sherman <https://jeremywsherman.com>
+// @copyright 2024, Jeremy W. Sherman. Licensed under the [BlueOak-1.0.0 license](https://blueoakcouncil.org/license/1.0.0) by [Jeremy W. Sherman](https://jeremywsherman.com).
+// @source    https://github.com/jeremy-w/itch-bundle-valuer
+// @version    1.0
 // ==/UserScript==
 (async function itchBundleValuer() {
     'use strict';

@@ -1,5 +1,7 @@
 // Dev Console Script
 // ASSUMED EXECUTION CONTEXT: https://itch.io/my-purchases/bundles
+// Licensed under the [BlueOak-1.0.0 license](https://blueoakcouncil.org/license/1.0.0) by [Jeremy W. Sherman](https://jeremywsherman.com), except for the Stack Overflow snippet, which remains under its own license.
+// Canonical repository: https://github.com/jeremy-w/itch-bundle-valuer
 let bundleListItems = Array.from(document.querySelectorAll('section.bundle_keys li'))
 
 /**
