@@ -3,7 +3,8 @@ This repo contains user scripts and a user CSS that, when modified and loaded in
 
 * when viewing a co-op bundle listing with URL like `/b/*`:
     * inject an approximate value of unowned games after the total value Itch provides
-    * inject the price of each game after its title
+        * E.g., "6,111 new games. Approximate total value in USD: $31,983.27, by way of $31,247.63, £394.25, €214.90, R$15.00."
+    * inject the price of each game after its title, or "free" or "web" if there is no price.
 * when viewing games anywhere outside your purchases:
     * will dim (or hide, if you tweak it) your owned games
 
