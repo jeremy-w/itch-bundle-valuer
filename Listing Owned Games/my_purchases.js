@@ -113,7 +113,7 @@ async function loadMyPurchases(startingAtPage = 1) {
 }
 
 // DUPE from purchased_bundles. Probably should just move this all into a userscript at some point, then it can share functions.
-// Source: https://stackoverflow.com/a/65939108
+// Source: https://stackoverflow.com/a/65939108 by [MSOACC](https://stackoverflow.com/users/5819046/msoacc)
 const saveTemplateAsFile = (filename, dataObjToWrite) => {
   const blob = new Blob([JSON.stringify(dataObjToWrite)], {
     type: "application/json",

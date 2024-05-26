@@ -76,7 +76,7 @@ async function populateBundles(/** @type{Bundle[]} */bundles) {
 }
 await populateBundles(bundles)
 
-// Source: https://stackoverflow.com/a/65939108
+// Source: https://stackoverflow.com/a/65939108 by [MSOACC](https://stackoverflow.com/users/5819046/msoacc)
 const saveTemplateAsFile = (filename, dataObjToWrite) => {
     const blob = new Blob([JSON.stringify(dataObjToWrite)], { type: "application/json" });
     const link = document.createElement("a");
