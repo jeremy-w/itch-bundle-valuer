@@ -2,8 +2,6 @@
 // ASSUMED EXECUTION CONTEXT: https://itch.io/my-purchases/bundles
 // Licensed under the [BlueOak-1.0.0 license](https://blueoakcouncil.org/license/1.0.0) by [Jeremy W. Sherman](https://jeremywsherman.com), except for the Stack Overflow snippet, which remains under its own license.
 // Canonical repository: https://github.com/jeremy-w/itch-bundle-valuer
-let bundleListItems = Array.from(document.querySelectorAll('section.bundle_keys li'))
-
 /**
 @typedef {Object} User
 @property {number} id
@@ -30,6 +28,15 @@ let bundleListItems = Array.from(document.querySelectorAll('section.bundle_keys 
 @property {number} id
 @property {Game[]} games
  */
+/** Stores the <LI> items for bundles found at the current page https://itch.io/my-purchases/bundles.  */
+let bundleListItems = Array.from(document.querySelectorAll('section.bundle_keys li'))
+/**
+ All bundles and their games.
+
+ Shared state during the scraping session.
+ This gets initially populated with just info about the bundles from https://itch.io/my-purchases/bundles,
+ then gets further filled out as each bundle is visited.
+ */
 let bundles = bundleListItems.map(it => (/** @type Bundle */{
     type: /** @type {const} */('bundle'),
     name: it.querySelector('a')?.textContent ?? '',
@@ -39,7 +46,9 @@ let bundles = bundleListItems.map(it => (/** @type Bundle */{
     id: 0,  // known to be numeric due to games.json treatment of all IDs
     games: [],
 }))
-function sleep(millis) {
+
+/** @returns {Promise<number>} millis slept */
+function sleep(/** @type {number} */millis) {
     return new Promise((resolve) => {
         window.setTimeout(() => resolve(millis), millis)
     })
@@ -48,6 +57,8 @@ function sleep(millis) {
 // Match group 1 is URL and 2 is ID
 // Observed /b/ for charity bundles and /s/ for sales bundles. Not sure what else might be out there.
 let bundleInfoRegex = /<a href="(\/[a-z]\/(\d+)[^"]+)/
+
+/** Fills in each {@link Bundle}'s  `url` and `id` by scraping the HTML at its `downloadUrl`. */
 async function populateBundles(/** @type{Bundle[]} */bundles) {
     const total = bundles.length
     let i = 0
@@ -78,7 +89,14 @@ async function populateBundles(/** @type{Bundle[]} */bundles) {
 }
 await populateBundles(bundles)
 
-// Source: https://stackoverflow.com/a/65939108 by [MSOACC](https://stackoverflow.com/users/5819046/msoacc)
+/**
+ Uses a temporary A element and a synthetic click on it to download the provided JSONable object as the supplied filename.
+
+ Source: https://stackoverflow.com/a/65939108 by [MSOACC](https://stackoverflow.com/users/5819046/msoacc)
+
+ @param {string} filename
+ @param {any} dataObjToWrite Must be JSON-stringifiable.
+ */
 const saveTemplateAsFile = (filename, dataObjToWrite) => {
     const blob = new Blob([JSON.stringify(dataObjToWrite)], { type: "application/json" });
     const link = document.createElement("a");
@@ -106,6 +124,12 @@ let gamesUrl = (/** @type Bundle */bundle) => bundle.url.startsWith('/b/') ? bun
 
 /** Docs: https://github.com/cheeriojs/cheerio/blob/main/Readme.md */
 let cheerio = await import('https://esm.sh/cheerio@1.0.0-rc.12')
+
+/**
+ Given HTML from a bundle's sales page (like what you'd find at {@link Bundle.url}), parses out {@link Game}s.
+
+ @returns {Game[]}
+*/
 function gamesFromSalesBundleHtml(/** @type{string} */html) {
     const $ = cheerio.load(html)
     const gamedivs = $('.sale_page .game_grid_widget div[data-game_id]')
@@ -132,6 +156,7 @@ function gamesFromSalesBundleHtml(/** @type{string} */html) {
     return games
 }
 
+/** Fetches {@link Bundle.url} and returns the {@link Game}s found at that page.*/
 async function scrapeSaleWebpage(/** @type {Bundle} */ bundle) {
     const res = await fetch(bundle.url, { credentials: 'same-origin'})
     if (!res.ok) {
@@ -144,6 +169,11 @@ async function scrapeSaleWebpage(/** @type {Bundle} */ bundle) {
     return games
 }
 
+/**
+ Fetches each bundle's games, with a delay between each fetch.
+
+ NOTE: The `bundles` argument will be mutated in-place by updating its{@link Bundle.games`games`}field.
+ */
 async function grabBundleGames(/** @type{Bundle[]} */bundles) {
     const total = bundles.length
     let i = 0
@@ -172,6 +202,7 @@ async function grabBundleGames(/** @type{Bundle[]} */bundles) {
             await sleep(sleepMillis)
         }
     }
+    return bundles;
 };
 await grabBundleGames(bundles);
 now = new Date();
