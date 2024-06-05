@@ -67,9 +67,11 @@ Then can dupe to user script to hide owned game IDs too, with header:
 ==/UserStyle== */
 ```
 
-Per query:
+If you have a dump of bundle games that you just want to re-format to paste in, you can do:
 
-- The bundle to value
+```sh
+jq -r '[.[].games.[].id | "[data-game_id=\"\(.)\"],"] | add' < purchased_bundles_games_1717553135273.json
+```
 
 ## Switching to browser user script?
 
