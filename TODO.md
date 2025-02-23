@@ -1,3 +1,6 @@
+## Save money
+* Add a user script that identifies games you own via some bundle when on the game page, even if you haven't claimed them, so you don't pay twice.
+
 ## Cosmetic
 * Omit ", by way of …" bit  when the only currency in use is the primary currency (USD for now), because "$123 by way of $123" is just silly.
 
