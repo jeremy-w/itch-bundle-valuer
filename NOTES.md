@@ -26,57 +26,7 @@ Cacheable:
     nothing.
   - The purchased bundle pages themselves do support JSON and are paginated
   - Once dumped using purchased_bundles in the browser, you can get a JSON array of just the game IDs using: `jq [.[].games[].id] < purchased_bundles_games*.json`
-- But what we really want is the union of them as a set, so let's use deno to read in the jsons and then throw all the game IDs into a set and write them back out as a sorted array:
-
-```ts
-let fileNames = (await Array.fromAsync(Deno.readDir('.'))).filter(it => it.isFile && it.name.endsWith('.json') && it.name.includes('_games_')).map(it => it.name);
-fileNames.sort()
-let my_purchases_file = fileNames.findLast(it => it.startsWith('my_purchases_games_'));
-let my_purchases = JSON.parse(
-  Deno.readTextFileSync(my_purchases_file)
-);
-let bundles_file = fileNames.findLast(it => it.startsWith('purchased_bundles_games_'));
-let bundles = JSON.parse(
-  Deno.readTextFileSync(bundles_file)
-);
-let ownedGameIds = new Set(
-  my_purchases
-    .map((it) => it.id)
-    .concat(bundles.flatMap((it) => it.games).map((it) => it.id))
-);
-ownedGameIds.size; // 4855
-let list = Array.from(ownedGameIds).sort();
-Deno.writeTextFileSync("game_ids.json", JSON.stringify(list));
-let pre =
-  `/* ==UserStyle==
-@name        Itch.io Owned Game Dimmer
-@description Dims owned games. Generated from a list of owned game IDs.
-@match       https://itch.io/*
-@exclude     https://itch.io/my-purchases*
-==/UserStyle== */
-/*! Last updated: ${new Date().toISOString()} */` +
-  list.map((it) => `[data-game_id="${it}"]`).join(",");
-let dimmer = pre + " { opacity: 30% !important; }";
-Deno.writeTextFileSync("Itch.io Owned Game Dimmer.css", dimmer);
-
-let hider = pre + ' { display: none; }';
-hider = hider.replace('Dimmer', 'Hider').replace('Dims', 'Hides');
-Deno.writeTextFileSync("Itch.io Owned Game Hider.css", dimmer);
-
-css =
-`/* ==UserStyle==
-@name        Itch.io Owned Game Declarer
-@description Dims owned games. Generated from a list of owned game IDs.
-@match       https://*.itch.io/*
-@exclude     https://itch.io/my-purchases*
-==/UserStyle== */
-/*! Last updated: ${new Date().toISOString()} */` +
-  list.map((it) => `html:has(head meta[name="itch:path"][content="games/${it}"]) .header_buy_row::before`).join(",") +
-  " .header_buy_row::before { content: 'HEY! YOU OWN THIS ALREADY!' }";
-Deno.writeTextFileSync("Itch.io Owned Game Declarer.css", css);
-
-// TODO: Read in JS and replace between BEGIN and END with game IDs array string.
-```
+- But what we really want is the union of them as a set, so let's use deno to read in the jsons and then throw all the game IDs into a set and write them back out as a sorted array. See [`data_to_scripts.ts`](./data_to_scripts.ts).
 
 Then can dupe to user script to hide owned game IDs too, with header:
 
